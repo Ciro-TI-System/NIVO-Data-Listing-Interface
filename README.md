@@ -40,6 +40,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[Figma](https://www.figma.com/dev-mode/)**
 - **[Pnpm](https://pnpm.io/pt/installation)**
 - **[Vite](https://vitejs.dev/guide/)**
+- **[lucide-rect](#)**
+- **[Tailwind](#)**
+- **[tailwind-variants](#)**
+- **[tailwind-merge](#)** 
+- **[@radix-ui/react-select](#)**
 
 <br>
 
