@@ -3,7 +3,7 @@ NIVO Video (React)
 </h1>
 
 <p align="center">
-⚙️ Desenvolvimento de uma interface de listagem de dados. ⚙️
+⚙️ Desenvolvimento de uma interface de criação e listagem de dados desenvolvido durante o evento React na Prática da Rocketseat. ⚙️
 </p>
 
 <br>
@@ -45,6 +45,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[tailwind-variants](#)**
 - **[tailwind-merge](#)** 
 - **[@radix-ui/react-select](#)**
+- **[json-server](#)**
+- **[@tanstack/react-query](#)**
+- **[@radix-ui/react-dialog](#)**
+- **[zod](#)**
+- **[@hookform/resolvers](#)**
+- **[react-hook-form](#)**
 
 <br>
 
